@@ -14,3 +14,5 @@ Programación desarrollada durante el Bootcamp en Adalab
 - Fusión, unión y concatenación de conjuntos de datos 
 - Limpieza: identificación, borrado y/o reemplazo de datos duplicados, nulos y outliers. 
 - Análisis exploratorio de datos EDA
+- ETL Extracción, transformación y carga de datos.
+- API`s
