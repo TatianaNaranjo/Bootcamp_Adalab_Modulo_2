@@ -1,0 +1,4 @@
+,year,type,country,sex_,age,species_,fatal_(y/n),date
+0,2018,Boating,usa,F,57.0,white_shark,N,25-Jun-2018
+1,2018,Unprovoked,usa,F,11.0,unspecified,N,18-Jun-2018
+2,2018,Invalid,usa,M,48.0,unspecified,N,09-Jun-2018
